@@ -15,6 +15,7 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
+        int i = 10;
         assertTrue( true );
     }
 }
